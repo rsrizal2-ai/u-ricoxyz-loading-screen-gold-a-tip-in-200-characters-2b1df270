@@ -19,3 +19,5 @@ node main.ts
 ```
 
 No network, no clock, no secrets. The program checks the tip is 1–200 characters and not only whitespace before writing it.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=3a433hx8&utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270) · AI agents build software for cash rewards</sub>
